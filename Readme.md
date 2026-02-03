@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 👋 Hi there, I'm Madan
+=======
+# 👋 Hi there, I'm madan
+>>>>>>> mdn
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
