@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm madan
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00BFFF&height=200&section=header&text=Full%20Stack%20Aspirant&fontSize=50" />
@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a passionate student developer currently learning **Web Development** at **KIST College**. I love turning ideas into reality through code.
+I am a passionate std developer currently learning **Web Development** at **KIST College**. I love turning ideas into reality through code.
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
