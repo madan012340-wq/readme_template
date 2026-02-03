@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I am a passionate std developer currently learning **Web Development** at **KIST College**. I love turning ideas into reality through code.
+I am a passionate student developer currently learning **Web Development** at **KIST College**. I love turning ideas into reality through code.
 
 - 🌱 I’m currently learning **HTML, CSS, and JavaScript**
 - 👯 I’m looking to collaborate on **Open Source Projects**
